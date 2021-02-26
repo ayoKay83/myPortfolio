@@ -81,9 +81,14 @@ li {
 }
 
 footer {
+    background-image: url("img/fractal-full.png");
+    background-size: 100%;
     color: hotpink;
     background-color: ivory;
     padding: 10px 20px;
+}
+footer h5 a {
+    color: hotpink;
 }
 .contact {
     padding: 20px;
